@@ -1,0 +1,7 @@
+< 5th September 2020 >
+
+1. What is the latest command/tool used in place place of yum in RHEL 8?
+
+2. Is there any shortcomings of yum and what are its advantages over rpm?
+
+3. Let's say you install vlc or docker in RHEL8, can you open vlc through root user? if yes, how? if no, why?
