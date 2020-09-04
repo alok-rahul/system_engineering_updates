@@ -15,6 +15,14 @@ Challenges that I work on 1st thing in morning :
 
 7. Can we create more than 6 Virtual terminal in red hat 8,  there are 6 virtual terminal offered ( 2 GUI and 6 CLI )? if yes, how?
 
-8.
+8. Can you tell us what are the uses of cat command?
+
+9. Can you tell us the difference between list and tuple datatype in python, apart from mutability propertiy?
+
+< 4th September 2020>
+
+10. How can we send the output of a command in stdout(screen) and to any other location, say file , by a single command ?
+
+11. Can you run a GUI programe sucessfully by doing ssh from your machine to the remote linux machine ?
 
 
