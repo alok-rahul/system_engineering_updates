@@ -1,5 +1,11 @@
-Commands for powershell
+Cheat sheet --  Commands for powershell -- Windows Operating System 
 
 1.ls C:\
 2. Get-Help ls
 3. Get-Help ls -full
+4. pwd 				-- present eorking directory
+5. cd				-- change directory
+6. Ctrl + R   			-- This command will suggest the previous commands executed, from memory
+7. clear			-- This command will clear the screen
+8. Get-Alias ls			-- This will  show the actual program/command that gets executed when we run ls command
+9. 
