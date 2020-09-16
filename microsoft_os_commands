@@ -1,0 +1,5 @@
+Commands for powershell
+
+1.ls C:\
+2. Get-Help ls
+3. Get-Help ls -full
