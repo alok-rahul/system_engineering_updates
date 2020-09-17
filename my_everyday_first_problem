@@ -30,3 +30,12 @@ Challenges that I work on 1st thing in morning :
 13. How can you create a TUI program/software to automate everything related to system Administration?
 
 14. How can you read the RAM? All the data of RAM. Not just the ram utilization.
+
+======================================================
+
+1. Where can you view all the group information?   >> /etc/group file, first field is group name, 2nd is the password, 3rd field is the group id and 4th field is the user
+
+2. Where can you view all the users information in linux? >> /etc/passwd file, first field is username, 2nd is the encrypted password,3rd field is the user-id through which system identifies the user. Password of both user and group are stored at different location.
+
+3. 
+
