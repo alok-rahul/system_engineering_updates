@@ -37,5 +37,5 @@ Challenges that I work on 1st thing in morning :
 
 2. Where can you view all the users information in linux? >> /etc/passwd file, first field is username, 2nd is the encrypted password,3rd field is the user-id through which system identifies the user. Password of both user and group are stored at different location.
 
-3. 
+3. What is the importance of SElinux? Why is it used and what is the difference between Discretionary Access contrl and Mendatory Access Control?
 
