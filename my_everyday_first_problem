@@ -39,3 +39,16 @@ Challenges that I work on 1st thing in morning :
 
 3. What is the importance of SElinux? Why is it used and what is the difference between Discretionary Access contrl and Mendatory Access Control?
 
+
+============
+
+Summary of SELinux :-
+- Users and its priivileges >> process is associated with User
+- What is DAC - Discretionary Access Control
+- Revision of Web Services , Apache server.
+- Webshell and PHP Shell exploit which hackers use to compromise access process.
+- What is Mendatory Access Control -- How SELinux ( Security Enhanced Linux work and can be set )
+- There is a jail kind of environment created by the use of tag to lock process and file with each other.
+- chcon -t <tag-name> <file-name> to set the tag for file.
+
+
